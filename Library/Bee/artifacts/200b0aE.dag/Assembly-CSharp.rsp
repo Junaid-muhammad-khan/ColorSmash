@@ -442,9 +442,9 @@
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.43f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.43f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.43f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
-"Assets/followPlayer.cs"
-"Assets/Player.cs"
-"Assets/Rotator.cs"
+"Assets/Scripts/followPlayer.cs"
+"Assets/Scripts/Player.cs"
+"Assets/Scripts/Rotator.cs"
 -langversion:9.0
 /deterministic
 /optimize+
